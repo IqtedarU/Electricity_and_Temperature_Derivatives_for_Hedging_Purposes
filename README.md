@@ -90,6 +90,5 @@ Presentation:
 
 - `simulation.py`: Full simulation of price, temperature, load, and earnings  
 - `MSF568_2023cFall_AnalyticTermProject.csv`: Historical inputs for means and standard deviations  
-- `notebooks/`: Visualization of simulation results and hedging performance
 
 This project demonstrates practical energy risk management using quantitative tools and can be extended to real-world scenarios by calibrating with market and weather data.
